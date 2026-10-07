@@ -1,0 +1,11 @@
+*.fastq*
+*.fq*
+*.fasta
+*.fa
+*.bam
+*.sif
+*_output/
+busco_downloads/
+merqury*/
+*.o
+*.e
